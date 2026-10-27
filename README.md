@@ -1,6 +1,6 @@
-# Python-Labs-2026
+# Python-Labs
 
-Python Labs 2026
+This repository is currently on hold while I focus on building foundational IT support and Windows administration skills. I'll return to these labs as my learning roadmap progresses.
 
 Description
 This repository contains a collection of hands-on Python labs that document my learning journey as I transition into IT and cybersecurity. Each lab focuses on building practical skills through small, real-world inspired scripts.
